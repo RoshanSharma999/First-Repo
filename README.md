@@ -1,5 +1,5 @@
 # First-Repo
-Just to learn Git a GitHub.
+Just to learn Git and GitHub.
 
 # Name
 Roshan Sharma
